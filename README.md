@@ -16,5 +16,5 @@ There was no need to clean the data
 
 ----
 # Findings and Recommendation
-Quite interesting summaries of COVID-19 Data trends that can help to make informed decisions
+Quite interesting summaries of COVID-19 Data trends that can help to make informed decisions.
 United States has the highest cases and deaths from COVID.
